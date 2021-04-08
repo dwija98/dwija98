@@ -1,0 +1,44 @@
+<! DOCTYPE html>
+<html lang="en">
+<head>
+<title>fun brain waves</title>
+</head>
+
+<body style="background-color:white;">
+<h1 style="color:green;"> Welcome! to the Fuzzy Brain Waves website</h1> 
+<p1 style="fontsize:18"> This website will help you determine your mental state when you are connected to an EEG sensor</br>
+and also provide simple intervention strategies that can be used when you are experiencing a certain emotion</p1>
+
+<h2> Click on the sign up tab below if you haven't already registered and explore away. </h2> 
+<p2 title="Sign up"> <a href="file:///C:/Users/MAHE/Documents/signup.html"  target="_blank"> Click on this link to Sign up and Register </a> </p2>
+</br>
+<p3 title="Log In"> <a href="file:///C:/Users/MAHE/Documents/login.html"  target="_blank">  Click on this link to Log In for exsisitng users </a> </p3>
+</br> 
+
+<p4 title="About developer"> <a href="About"  target="_blank"> To contact the developers and find out more about this website click here </a> </p4>
+</br>
+
+<h2 title="brain waves" style="font-family:times new roman;"> <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves" target="_blank"> Use this link to learn about brain waves </a> </h2>
+
+
+<img src="Types-of-brain-waves.jpg" alt="Types of brain waves" width="475" height="475" style="border:2px solid Tomato;" style="float:center"; width="475";height="475";>
+
+
+</br>
+
+<p4 style="color:black;" style="fontsize:20;"> Don't understand if you are feeling
+<ol>
+  <li style="color:violet;">Happy</li>
+  <li style="color:green;">Sad</li>
+  <li style="color:red;">Angry</li>
+  <li style="color:gray;">Confused</li>
+  <li style="color:orange;">Stressed</li>
+  <li style="color:darkmagenta;">Anxious</li>
+  <li style="color:darkslateblue;">Sleepy</li>
+  <li style="color:forestgreen;"> Or having low concentration?</li>
+</ol> 
+</br>
+<p5 style="color:black;" style="fontsize:20;"> Don't worry. We got you!</br>
+
+</body>
+</html>
