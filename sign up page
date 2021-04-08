@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<title> Sign Up page </title>
+<body style="background color=bisque">
+
+<h2 style="color:Black;" style="font-size"200%;"> Register here </h2>
+
+
+<form action="example.html" method="post">
+  
+<img src="genes.jpg" alt="eeg image" style="float:right;width="500";height="500" style="border:2 black;">
+  
+
+  <div class="container">
+    <label for="fname">First name</label>
+    <input type="text" id="fname" name="fname" required> <br> <br>
+
+    <label for="lname">Last name</label>
+    <input type="text" id="lname" name="lname" required> <br> <br>
+
+</br>
+
+<label for="gender"> Select Gender</label>
+</br>
+<input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label><br>
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label><br>
+  <input type="radio" id="other" name="gender" value="other">
+  <label for="other">Other</label>
+
+</br>
+</br>
+<label for="age"> enter age</label>
+<input type="number" id="age" number="age" required> <br> <br>
+
+</br>
+<label for="email"> enter email address </label>
+<input type="text" id="email" number="email" required> <br> <br>
+
+</br>
+<label for="contact"> enter contact number </label>
+<input type="number" id="contact" number="contact" required> <br> <br>
+
+</br>
+
+    <button type="submit">Register</button>
+    <label>
+   
+    </label>
+
+  </div>
+
+ 
+</form>
+
+
+
